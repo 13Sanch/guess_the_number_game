@@ -1,2 +1,2 @@
-# guess_the_number_game
-SF homework 
+# SkillFactory Data Science Homework
+Game: Guess the number
